@@ -31,4 +31,4 @@ loan_old.csv: Contains 614 records of applicants' data with 10 feature columns a
 loan_new.csv: Contains 367 records of new applicants' data with the same 10 feature columns.
 
 
-team member: [Malak Gamal] ( @https://github.com/malakg1)
+team member: [Malak Gamal] (@https://github.com/malakg1)
