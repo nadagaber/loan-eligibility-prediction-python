@@ -32,4 +32,4 @@ loan_new.csv: Contains 367 records of new applicants' data with the same 10 feat
 
 
 ## team member:
-[Malak Gamal](@https://github.com/malakg1)
+[Malak Gamal](https://github.com/malakg1)
