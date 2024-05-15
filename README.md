@@ -1,12 +1,12 @@
 # loan-eligibility-prediction-python
 
-Overview:
+## Overview:
 
 This Python program is designed to automate the process of validating customers' eligibility for interest-free home loans offered by a housing finance company. It utilizes machine learning models, specifically linear regression and logistic regression, to predict loan decisions and amounts based on customers' details provided in the loan application form.
 
 <br>
 
-Program Features:
+## Program Features:
 
 Data Analysis: The program performs analysis on the provided dataset to identify missing values, determine feature types (categorical or numerical), check for scale consistency among numerical features, and visualize relationships between numerical columns.
 
@@ -24,11 +24,12 @@ Prediction on New Data: The program preprocesses and predicts loan amounts and s
 
 <br>
 
-Datasets:
+## Datasets:
 
 loan_old.csv: Contains 614 records of applicants' data with 10 feature columns and 2 target columns (maximum loan amount and loan acceptance status).
 
 loan_new.csv: Contains 367 records of new applicants' data with the same 10 feature columns.
 
 
-team member: [Malak Gamal] (@https://github.com/malakg1)
+## team member:
+[Malak Gamal](@https://github.com/malakg1)
